@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>MongoDB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MongoDB</name>
-	<description>MongoDB</description>
+	<name>mongodb-api</name>
+	<description>mongodb-api</description>
 
 	<properties>
 		<java.version>1.8</java.version>
