@@ -8,7 +8,11 @@
 ### aplicación roboto
 >- https://github.com/Studio3T/robomongo
 
+### comandos 
+>- mongod --storageEngine=mmapv1
 
+### descargar shell
+>- https://www.mongodb.com/try/download/shell
 
 ### usar terminal
 >- mongod.exe solo una vez
