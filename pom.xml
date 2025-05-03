@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>MongoDB</artifactId>
+	<artifactId>mongodb-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mongodb-api</name>
 	<description>mongodb-api</description>
